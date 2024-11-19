@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aayush7667-maker
-- 👀 I’m interested in coading.
+- 👀 I’m interested in coding.
 - 🌱 I’m currently learning C programming
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Email: aayushh522@gmail.com

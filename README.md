@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning C programming
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me Email: aayushh522@gmail.com
-- ⚡ Fun fact: ...
 
 <!---
 aayush7667-maker/aayush7667-maker is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
